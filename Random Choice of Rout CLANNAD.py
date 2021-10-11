@@ -374,3 +374,4 @@ menu.title('Random Choice of Rout CLANNAD | IPOleksenko')
 menu.iconbitmap('ICON\clannad-anime-icon-clannad-png-icon-thumbnail.ico')
 peremen()
 menu.mainloop()
+#Author: IPOleksenko
