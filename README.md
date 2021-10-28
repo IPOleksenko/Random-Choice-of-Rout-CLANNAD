@@ -1,2 +1,2 @@
-# Endgame randomizer in CLANNAD
+# Random Choice of Rout CLANNAD
 # Author: IPOleksenko
